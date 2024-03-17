@@ -1,4 +1,4 @@
-
+- originated repository from : https://github.com/GGoYoungHee/R-Shiny-IMa3_dashboard
 
 **R 언어 기반, R 4.0.2 버전의 패키지 사용됨.**
 

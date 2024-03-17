@@ -67,3 +67,5 @@ setwd("C:/Users/rhtn2/OneDrive/Documents//IMa3_Making-Histogram-main")
 4. Run the entire script 'test_navbar.R'.
 
 ** If you want to use the 'Brn-Thn' page, you must press the 'Open in Browser' button to open it as a web page to run the file load.
+
+끝.
